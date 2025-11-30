@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | Data Science Enthusiast
 
-I am a passionate developer from Malppuram,Kerala, currently studying at **IIT Madras**. I love building web applications and exploring the world of AI and Data Science.
+I am a passionate developer from Kerala, currently studying at **IIT Madras**. I love building web applications and exploring the world of AI and Data Science.
 
 ---
 
@@ -19,14 +19,7 @@ I am a passionate developer from Malppuram,Kerala, currently studying at **IIT M
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rishal-pc7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishal-pc7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  </a>
-</p>
+[![Rishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishal-pc7)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
