@@ -38,6 +38,6 @@ I am a passionate developer from Malppuram,Kerala, currently studying at **IIT M
 <p align="left">
 <a href="https://linkedin.com/in/[YOUR_LINKEDIN_ID]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="mailto:rishalpc14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="40" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="center" />
   </a>
 </p>
