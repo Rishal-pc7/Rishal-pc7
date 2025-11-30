@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Rishal! 👋
 
 ### 🚀 Full Stack Developer | Data Science Enthusiast
 
@@ -28,7 +28,7 @@ I am a passionate developer from Malppuram,Kerala, currently studying at **IIT M
 
 ### 🔭 Currently Working On
 - 🎓 Studying **BS in Data Science and Applications**
-- 🧠 Learning **[MERN Stack, AI Agents]**
+- 🧠 Learning **[Python, AI Agents]**
 
 ### 🤝 Connect with Me
 <p align="left">
