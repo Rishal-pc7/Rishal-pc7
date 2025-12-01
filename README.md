@@ -17,12 +17,6 @@ I am a passionate developer from Kerala, currently studying at **IIT Madras**. I
 
 ---
 
-### 📊 GitHub Stats
-
-[![Rishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishal-pc7)](https://github.com/Rishal-pc7/github-readme-stats)
-
----
-
 ### 🔭 Currently Working On
 - 🎓 Studying **BS in Data Science and Applications**
 - 🧠 Learning **Python, AI Agents,FastAPI**
