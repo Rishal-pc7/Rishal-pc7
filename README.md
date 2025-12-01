@@ -28,6 +28,3 @@ I am a passionate developer from Kerala, currently studying at **IIT Madras**. I
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" align="center" />
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishal-pc7l&label=Profile%20Visitors&color=blueviolet&style=flat-square" alt="profile visitors" />
-</p>
